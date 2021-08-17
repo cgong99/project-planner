@@ -9,13 +9,13 @@
     {
       "title": "update resume",
       "details": "for internship",
-      "complete": false,
+      "complete": true,
       "id": 3
     },
     {
       "title": "finish this part today",
-      "details": "",
-      "complete": false,
+      "details": "push this to github",
+      "complete": true,
       "id": 4
     }
   ]
