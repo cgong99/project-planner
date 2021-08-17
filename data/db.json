@@ -2,14 +2,8 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage banner",
+      "title": "Create new homepage",
       "details": "Lorem ipsumasdfasdf",
-      "complete": true
-    },
-    {
-      "id": 2,
-      "title": "Make marketing email",
-      "details": "Lorem ipsum",
       "complete": true
     },
     {
@@ -17,6 +11,12 @@
       "details": "for internship",
       "complete": false,
       "id": 3
+    },
+    {
+      "title": "finish this part today",
+      "details": "",
+      "complete": false,
+      "id": 4
     }
   ]
 }
